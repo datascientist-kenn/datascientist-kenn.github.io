@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# remote_theme           : "remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+remote_theme           : "remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -36,7 +36,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
      https://developers.facebook.com/docs/plugins/comments
-    #appid                :
+    appid                :
     num_posts            : # 5 (default)
     colorscheme          : "light" (default), "dark"
   utterances:
@@ -80,7 +80,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links:  "https://twitter.com/kenn_ds?s=09"
+  links:  "https://twitter.com/kenn_ds"
         - "https://www.facebook.com/Kaysl33k"
         - "http://www.linkedin.com/in/kenneth-dagogo-37917111b"
 # Analytics
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kenneth Dagogo"
-  avatar           : "/assets/images/Code.png"
+  avatar           : "/assets/images/IMG.jpg"
   bio              : "Start **SOMEWHERE**, grow **EVERYWHERE**"
   location         : "Lagos, Nigeria."
   email            :
@@ -107,7 +107,7 @@ author:
       url: "https://datascientist-kenn.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kenn_ds?s=09"
+      url: "https://twitter.com/kenn_ds"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/Kaysl33k/"
